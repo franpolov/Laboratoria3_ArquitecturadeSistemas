@@ -31,6 +31,7 @@ Cada uno se encuentra documentado en `architecture.md`.
 - **architecture.md**
 - **services.md**
 - **security.md**
+- **mitigation.md**
 - **resilience_testing.md**
 - **README.md**
 
